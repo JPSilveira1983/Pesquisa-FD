@@ -1,6 +1,6 @@
 # Pesquisa-FD  
 
-Repositório com dados levantados a partir do YouTube Data Tools (YTDT) e do VidIQ sobre o canal Fatos Desconhecidos — análise de conteúdo, categorias, metadados e temporalidade (2015–2025).  
+Repositório com dados levantados a partir do YouTube Data Tools (YTDT) e do VidIQ sobre o canal Fatos Desconhecidos — análise de conteúdo, categorias, metadados e temporalidade (2015–2025). Seu propósito é servir ao projeto de pesquisa sociologica dedicada à midiatização digital das religiões, especialmente das espiritualidades oculturais.   
 
 ## 📄 Sobre este repositório  
 
